@@ -1,9 +1,3 @@
-;TODO Format YAML
-;TODO Dispatching put type data (binary or string)
-;TODO Check Encoding
-;TODO Open and Close
-;TODO Handle errors
-
 (module beanscheme scheme
   (provide (all-defined-out))
   
