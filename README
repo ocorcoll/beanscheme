@@ -1,5 +1,3 @@
 ;TODO Format YAML
-;TODO Dispatching put type data (binary or string)
-;TODO Check Encoding
-;TODO Open and Close
+;TODO Doc
 ;TODO Handle errors
